@@ -1,4 +1,5 @@
 streamlit
+python==3.9.18
 pandas
 pickle
 scikit-learn
