@@ -30,3 +30,5 @@ with col1:
 with col2:
     st.write("Price Trend")
     st.line_chart(data=hist.Close)
+
+    
